@@ -1,0 +1,235 @@
+.:
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+2019
+2020
+index.txt
+README.md
+
+./2012:
+ACL12 Baselines and Bigrams: Simple, Good Sentiment and Topic Classification.pdf
+ACL12 Improving Word Representations via Global Context and Multiple Word Prototypes.pdf
+CVPR12 Are we ready for autonomous driving? The KITTI vision benchmark suite.pdf
+CVPR12 Multi-column deep neural networks for image classification.pdf
+ECCV12 Indoor segmentation and support inference from RGBD images.pdf
+EMNLP12 Semantic Compositionality through Recursive Matrix-Vector Spaces.pdf
+ICML12 Autoencoders, Unsupervised Learning, and Deep Architectures.pdf
+ICML12 Deep Learning of Representations for Unsupervised and Transfer Learning.pdf
+NIPS12 ImageNet Classification with Deep Convolutional Neural Networks.pdf
+NIPS12 Large Scale Distributed Deep Networks.pdf
+NIPS12 Practical Bayesian Optimization of Machine Learning Algorithms.pdf
+
+./2013:
+ACL13 Parsing with Compositional Vector Grammars.pdf
+CVPR13 Online Object Tracking: A Benchmark.pdf
+CVPR13 Supervised Descent Method and Its Applications to Face Alignment.pdf
+EMNLP13 Recurrent Continuous Translation Models.pdf
+EMNLP13 Recursive Deep Models for Semantic Compositionality Over a Sentiment Treebank.pdf
+EMNLP13 Semantic Parsing on Freebase from Question-Answer Pairs.pdf
+ICLR13 Deep Inside Convolutional Networks: Visualising Image Classification Models and Saliency Maps.pdf
+ICLR13 Efficient Estimation of Word Representations in Vector Space.pdf
+ICML13 On the importance of initialization and momentum in deep learning.pdf
+NIPS13 Distributed Representations of Words and Phrases and their Compositionality.pdf
+
+./2014:
+AAAI14 Knowledge graph embedding by translating on hyperplanes.pdf
+ACL14 A Convolutional Neural Network for Modelling Sentences.pdf
+ACL14 The Stanford CoreNLP Natural Language Processing Toolkit.pdf
+CVPR14 CNN Features Off-the-Shelf: An Astounding Baseline for Recognition.pdf
+CVPR14 DeepFace: Closing the Gap to Human-Level Performance in Face Verification.pdf
+CVPR14 Large-Scale Video Classification with Convolutional Neural Networks.pdf
+CVPR14 Rich Feature Hierarchies for Accurate Object Detection and Semantic Segmentation.pdf
+CVPR14 Very Deep Convolutional Networks for Large-Scale Image Recognition.pdf
+ECCV14 Microsoft COCO: Common Objects in Context.pdf
+ECCV14 Spatial Pyramid Pooling in Deep Convolutional Networks for Visual Recognition.pdf
+ECCV14 Visualizing and Understanding Convolutional Networks.pdf
+EMNLP14 A Fast and Accurate Dependency Parser using Neural Networks.pdf
+EMNLP14 Convolutional Neural Networks for Sentence Classification.pdf
+EMNLP14 Glove: Global Vectors for Word Representation.pdf
+EMNLP14 Learning Phrase Representations using RNN Encoder--Decoder for Statistical Machine Translation.pdf
+EMNLP14 On the Properties of Neural Machine Translation: Encoder--Decoder Approaches.pdf
+ICLR14 Auto-Encoding Variational Bayes.pdf
+ICLR14 Intriguing properties of neural networks.pdf
+ICLR14 Network In Network.pdf
+ICLR14 OverFeat: Integrated Recognition, Localization and Detection using Convolutional Networks.pdf
+ICML14 DeCAF: A Deep Convolutional Activation Feature for Generic Visual Recognition.pdf
+ICML14 Distributed Representations of Sentences and Documents.pdf
+ICML14 Stochastic Backpropagation and Approximate Inference in Deep Generative Models.pdf
+NIPS14 Generative Adversarial Nets.pdf
+NIPS14 How transferable are features in deep neural networks.pdf
+NIPS14 Learning Deep Features for Scene Recognition using Places Database.pdf
+NIPS14 Sequence to Sequence Learning with Neural Networks.pdf
+NIPS14 Two-Stream Convolutional Networks for Action Recognition in Videos.pdf
+
+./2015:
+AAAI15 Learning entity and relation embeddings for knowledge graph completion.pdf
+CVPR15 Deep visual-semantic alignments for generating image descriptions.pdf
+CVPR15 FaceNet: A unified embedding for face recognition and clustering.pdf
+CVPR15 Fully convolutional networks for semantic segmentation.pdf
+CVPR15 Going deeper with convolutions.pdf
+CVPR15 Long-term recurrent convolutional networks for visual recognition and description.pdf
+CVPR15 Show and tell: A neural image caption generator.pdf
+EMNLP15 A large annotated corpus for learning natural language inference.pdf
+EMNLP15 A Neural Attention Model for Abstractive Sentence Summarization.pdf
+EMNLP15 Effective Approaches to Attention-based Neural Machine Translation.pdf
+ICCV15 Deep Learning Face Attributes in the Wild.pdf
+ICCV15 Delving Deep into Rectifiers: Surpassing Human-Level Performance on ImageNet Classification.pdf
+ICCV15 Fast R-CNN.pdf
+ICCV15 Learning Spatiotemporal Features with 3D Convolutional Networks.pdf
+ICLR15 Adam: A Method for Stochastic Optimization.pdf
+ICLR15 Explaining and Harnessing Adversarial Examples.pdf
+ICLR15 Neural Machine Translation by Jointly Learning to Align and Translate.pdf
+ICLR15 Semantic Image Segmentation with Deep Convolutional Nets and Fully Connected CRFs.pdf
+ICML15 Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift.pdf
+ICML15 Show, Attend and Tell: Neural Image Caption Generation with Visual Attention.pdf
+ICML15 Trust Region Policy Optimization.pdf
+NAACL15 SemEval-2015 Task 12: Aspect Based Sentiment Analysis.pdf
+NIPS15 Character-level convolutional networks for text classification.pdf
+NIPS15 Convolutional LSTM Network: a machine learning approach for precipitation nowcasting.pdf
+NIPS15 Faster R-CNN: towards real-time object detection with region proposal networks.pdf
+NIPS15 Learning both weights and connections for efficient neural networks.pdf
+
+./2016:
+AAAI16 Building end-to-end dialogue systems using generative hierarchical neural network models.pdf
+AAAI16 Character-aware neural language models.pdf
+AAAI16 Deep reinforcement learning with double Q-Learning.pdf
+ACL16 End-to-end Sequence Labeling via Bi-directional LSTM-CNNs-CRF.pdf
+ACL16 Improving Neural Machine Translation Models with Monolingual Data.pdf
+ACL16 Neural Machine Translation of Rare Words with Subword Units.pdf
+CVPR16 Deep Residual Learning for Image Recognition.pdf
+CVPR16 Inception-v4, Inception-ResNet and the Impact of Residual Connections on Learning.pdf
+CVPR16 Rethinking the Inception Architecture for Computer Vision.pdf
+CVPR16 The Cityscapes Dataset for Semantic Urban Scene Understanding.pdf
+CVPR16 You Only Look Once: Unified, Real-Time Object Detection.pdf
+ECCV16 Perceptual Losses for Real-Time Style Transfer and Super-Resolution.pdf
+ECCV16 SSD: Single Shot MultiBox Detector.pdf
+EMNLP16 SQuAD: 100,000+ Questions for Machine Comprehension of Text.pdf
+ICLR16 Continuous control with deep reinforcement learning.pdf
+ICLR16 Deep Compression: Compressing Deep Neural Networks with Pruning, Trained Quantization and Huffman Coding.pdf
+ICLR16 Multi-Scale Context Aggregation by Dilated Convolutions.pdf
+ICLR16 Semi-Supervised Classification with Graph Convolutional Networks.pdf
+ICLR16 Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks.pdf
+ICML16 Asynchronous methods for deep reinforcement learning.pdf
+ICML16 Deep speech 2: end-to-end speech recognition in English and mandarin.pdf
+ICML16 Dropout as a Bayesian approximation: representing model uncertainty in deep learning.pdf
+ICML16 Dueling network architectures for deep reinforcement learning.pdf
+NAACL16 Hierarchical Attention Networks for Document Classification.pdf
+NAACL16 Neural Architectures for Named Entity Recognition.pdf
+NIPS16 Convolutional neural networks on graphs with fast localized spectral filtering.pdf
+NIPS16 Improved techniques for training GANs.pdf
+NIPS16 InfoGAN: interpretable representation learning by information maximizing generative adversarial nets.pdf
+NIPS16 Matching networks for one shot learning.pdf
+NIPS16 R-FCN: Object Detection via Region-based Fully Convolutional Networks.pdf
+
+./2017:
+AAAI17 ConceptNet 5.5: An Open Multilingual Graph of General Knowledge.pdf
+AAAI17 Seqgan: sequence generative adversarial nets with policy gradient.pdf
+ACL17 Get To The Point: Summarization with Pointer-Generator Networks.pdf
+ACL17 OpenNMT: Open-Source Toolkit for Neural Machine Translation.pdf
+CVPR17 Densely Connected Convolutional Networks.pdf
+CVPR17 Feature Pyramid Networks for Object Detection.pdf
+CVPR17 Image-to-Image Translation with Conditional Adversarial Networks.pdf
+CVPR17 Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network.pdf
+CVPR17 PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation.pdf
+CVPR17 Pyramid Scene Parsing Network.pdf
+CVPR17 YOLO9000: Better, Faster, Stronger.pdf
+EMNLP17 Supervised Learning of Universal Sentence Representations from Natural Language Inference Data.pdf
+ICCV17 Focal Loss for Dense Object Detection.pdf
+ICCV17 Grad-CAM: Visual Explanations from Deep Networks via Gradient-Based Localization.pdf
+ICCV17 Mask R-CNN.pdf
+ICCV17 Unpaired Image-to-Image Translation Using Cycle-Consistent Adversarial Networks.pdf
+ICLR17 A simple but tough-to-beat baseline for sentence embeddings.pdf
+ICLR17 A Structured Self-Attentive Sentence Embedding.pdf
+ICLR17 mixup: Beyond Empirical Risk Minimization.pdf
+ICML17 Conditional image synthesis with auxiliary classifier GANs.pdf
+ICML17 Convolutional sequence to sequence learning.pdf
+ICML17 Model-agnostic meta-learning for fast adaptation of deep networks.pdf
+ICML17 Neural Message Passing for Quantum Chemistry.pdf
+ICML17 Wasserstein Generative Adversarial Networks.pdf
+NIPS17 Attention is All You Need.pdf
+NIPS17 GANs Trained by a Two Time-Scale Update Rule Converge to a Local Nash Equilibrium.pdf
+NIPS17 Improved training of wasserstein GANs.pdf
+NIPS17 Inductive Representation Learning on Large Graphs.pdf
+NIPS17 PointNet++: Deep Hierarchical Feature Learning on Point Sets in a Metric Space.pdf
+
+./2018:
+AAAI18 Spatial Temporal Graph Convolutional Networks for Skeleton-Based Action Recognition.pdf
+ACL18 Know What You Don't Know: Unanswerable Questions for SQuAD.pdf
+ACL18 Universal Language Model Fine-tuning for Text Classification.pdf
+CVPR18 Learning Transferable Architectures for Scalable Image Recognition.pdf
+CVPR18 MobileNetV2: Inverted Residuals and Linear Bottlenecks.pdf
+CVPR18 Non-local Neural Networks.pdf
+CVPR18 ShuffleNet: An Extremely Efficient Convolutional Neural Network for Mobile Devices.pdf
+CVPR18 Squeeze-and-Excitation Networks.pdf
+ECCV18 CBAM: Convolutional Block Attention Module.pdf
+ECCV18 Encoder-Decoder with Atrous Separable Convolution for Semantic Image Segmentation.pdf
+EMNLP18 Adversarial Learning for Neural Dialogue Generation.pdf
+EMNLP18 SentencePiece: A simple and language independent subword tokenizer and detokenizer for Neural Text Processing.pdf
+ICLR18 Graph Attention Networks.pdf
+ICLR18 Large Scale GAN Training for High Fidelity Natural Image Synthesis.pdf
+ICLR18 Progressive Growing of GANs for Improved Quality, Stability, and Variation.pdf
+ICLR18 Spectral Normalization for Generative Adversarial Networks.pdf
+ICLR18 Towards Deep Learning Models Resistant to Adversarial Attacks.pdf
+ICML18 Efficient Neural Architecture Search via Parameters Sharing.pdf
+ICML18 Obfuscated Gradients Give a False Sense of Security: Circumventing Defenses to Adversarial Examples.pdf
+ICML18 Self-Attention Generative Adversarial Networks.pdf
+ICML18 Synthesizing Robust Adversarial Examples.pdf
+NAACL18 A Broad-Coverage Challenge Corpus for Sentence Understanding through Inference.pdf
+NAACL18 BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding.pdf
+NAACL18 Deep contextualized word representations.pdf
+NIPS18 Glow: Generative Flow with Invertible 1x1 Convolutions.pdf
+NIPS18 Neural ordinary differential equations.pdf
+NIPS18 PointCNN: convolution on Χ -transformed points.pdf
+
+./2019:
+AAAI19 Graph Convolutional Networks for Text Classification.pdf
+AAAI19 Regularized Evolution for Image Classifier Architecture Search.pdf
+ACL19 BERT Rediscovers the Classical NLP Pipeline.pdf
+ACL19 Transformer-XL: Attentive Language Models beyond a Fixed-Length Context.pdf
+ACL19 What Does BERT Look at? An Analysis of BERT’s Attention.pdf
+CVPR19 ArcFace: Additive Angular Margin Loss for Deep Face Recognition.pdf
+CVPR19 A Style-Based Generator Architecture for Generative Adversarial Networks.pdf
+CVPR19 Dual Attention Network for Scene Segmentation.pdf
+CVPR19 MnasNet: Platform-Aware Neural Architecture Search for Mobile.pdf
+EMNLP19 SciBERT: A Pretrained Language Model for Scientific Text.pdf
+EMNLP19 Sentence-BERT: Sentence Embeddings using Siamese BERT-Networks.pdf
+ICCV19 FCOS: Fully Convolutional One-Stage Object Detection.pdf
+ICCV19 Searching for MobileNetV3.pdf
+ICLR19 A Closer Look at Few-shot Classification.pdf
+ICLR19 Deep Reinforced Model for Abstractive Summarization.pdf
+ICLR19 Slimmable Neural Networks.pdf
+ICML19 Certified Adversarial Robustness via Randomized Smoothing.pdf
+ICML19 EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks.pdf
+ICML19 Simplifying Graph Convolutional Networks.pdf
+NAACL19 A Structural Probe for Finding Syntax in Word Representations.pdf
+NAACL19 Attention is not Explanation.pdf
+NIPS19 GPipe: Efficient Training of Giant Neural Networks using Pipeline Parallelism.pdf
+NIPS19 MixMatch: A Holistic Approach to Semi-Supervised Learning.pdf
+NIPS19 PyTorch: An Imperative Style, High-Performance Deep Learning Library.pdf
+NIPS19 Unified Language Model Pre-training for Natural Language Understanding and Generation.pdf
+NIPS19 ViLBERT: Pretraining Task-Agnostic Visiolinguistic Representations for Vision-and-Language Tasks.pdf
+NIPS19 XLNet: Generalized Autoregressive Pretraining for Language Understanding.pdf
+
+./2020:
+AAAI20 Random Erasing Data Augmentation.pdf
+ACL20 BART: Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension.pdf
+ACL20 Unsupervised Cross-lingual Representation Learning at Scale.pdf
+CVPR20 Analyzing and Improving the Image Quality of StyleGAN.pdf
+CVPR20 Momentum Contrast for Unsupervised Visual Representation Learning.pdf
+CVPR20 nuScenes: A Multimodal Dataset for Autonomous Driving.pdf
+ECCV20 Diverse Image-to-Image Translation via Disentangled Representations.pdf
+EMNLP20 TinyBERT: Distilling BERT for Natural Language Understanding.pdf
+ICLR20 ALBERT: A Lite BERT for Self-supervised Learning of Language Representations.pdf
+ICLR20 BERTScore: Evaluating Text Generation with BERT.pdf
+ICLR20 Contrastive Multiview Coding.pdf
+ICLR20 Model Based Reinforcement Learning for Atari.pdf
+ICLR20 The Curious Case of Neural Text Degeneration.pdf
+ICML20 A Simple Framework for Contrastive Learning of Visual Representations.pdf
+ICML20 Data-Efficient Image Recognition with Contrastive Predictive Coding.pdf
+NIPS20 RandAugment: Practical Automated Data Augmentation with a Reduced Search Space.pdf
+NIPS20 Supervised Contrastive Learning.pdf
