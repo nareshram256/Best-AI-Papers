@@ -9,6 +9,7 @@
 2019
 2020
 index.txt
+LICENSE
 README.md
 
 ./2012:
@@ -196,18 +197,21 @@ CVPR19 ArcFace: Additive Angular Margin Loss for Deep Face Recognition.pdf
 CVPR19 A Style-Based Generator Architecture for Generative Adversarial Networks.pdf
 CVPR19 Dual Attention Network for Scene Segmentation.pdf
 CVPR19 MnasNet: Platform-Aware Neural Architecture Search for Mobile.pdf
+EMNLP19 LXMERT: Learning Cross-Modality Encoder Representations from Transformers.pdf
 EMNLP19 SciBERT: A Pretrained Language Model for Scientific Text.pdf
 EMNLP19 Sentence-BERT: Sentence Embeddings using Siamese BERT-Networks.pdf
 ICCV19 FCOS: Fully Convolutional One-Stage Object Detection.pdf
 ICCV19 Searching for MobileNetV3.pdf
 ICLR19 A Closer Look at Few-shot Classification.pdf
+ICLR19 Benchmarking Neural Network Robustness to Common Corruptions and Perturbations.pdf
 ICLR19 Deep Reinforced Model for Abstractive Summarization.pdf
 ICLR19 Slimmable Neural Networks.pdf
 ICML19 Certified Adversarial Robustness via Randomized Smoothing.pdf
 ICML19 EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks.pdf
 ICML19 Simplifying Graph Convolutional Networks.pdf
-NAACL19 A Structural Probe for Finding Syntax in Word Representations.pdf
 NAACL19 Attention is not Explanation.pdf
+NAACL19 fairseq: A Fast, Extensible Toolkit for Sequence Modeling.pdf
+NAACL19 Linguistic Knowledge and Transferability of Contextual Representations.pdf
 NIPS19 GPipe: Efficient Training of Giant Neural Networks using Pipeline Parallelism.pdf
 NIPS19 MixMatch: A Holistic Approach to Semi-Supervised Learning.pdf
 NIPS19 PyTorch: An Imperative Style, High-Performance Deep Learning Library.pdf
@@ -218,18 +222,28 @@ NIPS19 XLNet: Generalized Autoregressive Pretraining for Language Understanding.
 ./2020:
 AAAI20 Random Erasing Data Augmentation.pdf
 ACL20 BART: Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension.pdf
+ACL20 Multi-Task Deep Neural Networks for Natural Language Understanding.pdf
+ACL20 SpanBERT: Improving Pre-training by Representing and Predicting Spans.pdf
 ACL20 Unsupervised Cross-lingual Representation Learning at Scale.pdf
 CVPR20 Analyzing and Improving the Image Quality of StyleGAN.pdf
 CVPR20 Momentum Contrast for Unsupervised Visual Representation Learning.pdf
 CVPR20 nuScenes: A Multimodal Dataset for Autonomous Driving.pdf
+ECCV20 DeepIM: Deep Iterative Matching for 6D Pose Estimation.pdf
 ECCV20 Diverse Image-to-Image Translation via Disentangled Representations.pdf
+EMNLP20 Dense Passage Retrieval for Open-Domain Question Answering.pdf
 EMNLP20 TinyBERT: Distilling BERT for Natural Language Understanding.pdf
 ICLR20 ALBERT: A Lite BERT for Self-supervised Learning of Language Representations.pdf
 ICLR20 BERTScore: Evaluating Text Generation with BERT.pdf
 ICLR20 Contrastive Multiview Coding.pdf
+ICLR20 ELECTRA: Pre-training Text Encoders as Discriminators Rather Than Generators.pdf
 ICLR20 Model Based Reinforcement Learning for Atari.pdf
+ICLR20 Reformer: The Efficient Transformer.pdf
 ICLR20 The Curious Case of Neural Text Degeneration.pdf
 ICML20 A Simple Framework for Contrastive Learning of Visual Representations.pdf
 ICML20 Data-Efficient Image Recognition with Contrastive Predictive Coding.pdf
+NIPS20 Bootstrap Your Own Latent: A New Approach to Self-Supervised Learning.pdf
+NIPS20 FixMatch: Simplifying Semi-Supervised Learning with Consistency and Confidence.pdf
+NIPS20 Language Models are Few-Shot Learners.pdf
+NIPS20 On Adaptive Attacks to Adversarial Example Defenses.pdf
 NIPS20 RandAugment: Practical Automated Data Augmentation with a Reduced Search Space.pdf
 NIPS20 Supervised Contrastive Learning.pdf
